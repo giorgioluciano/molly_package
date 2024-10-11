@@ -1,4 +1,4 @@
-# Your First Python Package on PyPI
+# Acronimi!
 
 BITE – Binding Interaction Tracer Explorer: Ricorda un morso, associato alla ricerca di interazioni nelle tasche delle proteine.
 
